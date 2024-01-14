@@ -24,6 +24,6 @@ int main()
 	cout<<"ENTER THE POWER: "<<endl;
 	cin>>b;
 	cout<<endl;
-	cout<<a<<" ^ "<<b<<" = "<<power(a,b);
+	cout<<a<<"  ^ "<<b<<" = "<<power(a,b);
 	return 0;
 }
